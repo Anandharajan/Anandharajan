@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anandharajan
-- 👀 I’m interested in ML & IoT
-- 🌱 I’m currently learning ML!
-- 💞️ I’m looking to collaborate on ML & IoT
+- 👀 I’m interested in LLM and Startups
+- 🌱 I’m currently learning Entrepreneurship!
+- 💞️ I’m looking to collaborate on Startups!
 - 📫 How to reach me anandharajan@hotmail.com
 
 <!---
